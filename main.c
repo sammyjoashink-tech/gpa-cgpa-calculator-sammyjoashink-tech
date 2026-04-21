@@ -128,4 +128,4 @@ char* getGrade(float score) {
     /* Display full academic report */
 
     return 0;
-}
+
